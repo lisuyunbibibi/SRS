@@ -2,7 +2,7 @@
 选课系统
 ![](http://ww1.sinaimg.cn/mw690/006mLX4Fgw1f5jcu0epy3j30wa0oewh3.jpg "类图")
 ![](http://ww3.sinaimg.cn/mw690/006mLX4Fgw1f5jcw43qlqj30ia0m8jsn.jpg "顺序图")
-![](http://ww2.sinaimg.cn/mw690/006mLX4Fgw1f5jcxwlae7j319g0rcjts.jpg "")
+![](http://ww2.sinaimg.cn/mw690/006mLX4Fgw1f5jcxwlae7j319g0rcjts.jpg "时序图")
 ![](http://ww2.sinaimg.cn/mw690/006mLX4Fgw1f5i74xtjt6j30810glabf.jpg "系统分层结构图")
 ![](http://ww1.sinaimg.cn/mw690/006mLX4Fgw1f5i763slfaj30mn04mgnc.jpg "数据库结构截图")
 ![](http://ww2.sinaimg.cn/mw690/006mLX4Fgw1f5i4xdjtb9j30qi0e6gmm.jpg "登录")
